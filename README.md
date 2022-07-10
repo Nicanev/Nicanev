@@ -2,9 +2,9 @@
 
 ![Header](https://github.com/Nicanev/Nicanev/blob/main/img/about-me.png)
 
-## I'm a beginner web-developer
+<div>
 
-<div margin-bottom="100px">
+## I'm a beginner web-developer
 
 <img src="https://github.com/Nicanev/Nicanev/blob/main/img/Profile.png" align="right" width="300" />
 
@@ -16,6 +16,8 @@
 
 </div>
 
+<div style="margin-top: 50px;">
+
 ## Languages and Tools
 
 ![HTML](https://img.shields.io/badge/-HTML-000000?style=for-the-badge&logo=HTML5)
@@ -23,6 +25,8 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=JavaScript)
 ![Vue](https://img.shields.io/badge/-Vue.js-000000?style=for-the-badge&logo=Vue.js)
 ![SASS](https://img.shields.io/badge/-SASS-000000?style=for-the-badge&logo=SASS)
+
+</div>
 
 ## Follow Me
 
