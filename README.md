@@ -6,6 +6,9 @@
 
 ## I'm a beginner web-developer
 
+<br/>
+<br/>
+
 <img src="https://github.com/Nicanev/Nicanev/blob/main/img/Profile.png" align="right" width="300" />
 
 - **Name:** Nikita Lebedev
@@ -15,12 +18,12 @@
 - **Hobbys**: Web Development, Python Development, Graphic Design
 
 </div>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 ## Languages and Tools
 
