@@ -12,9 +12,9 @@
 - **Loves:** Anime, RPG-games
 - **Hobbys**: Web Development, Python Development, Graphic Design
 
-</div>
+<img src="https://github.com/Nicanev/Nicanev/blob/main/img/Profile.png" align="right" />
 
-<img src=".img/Profile.png" align="right" />
+</div>
 
 ## Languages and Tools
 
