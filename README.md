@@ -6,13 +6,13 @@
 
 <div>
 
+<img src="https://github.com/Nicanev/Nicanev/blob/main/img/Profile.png" align="right" width="300" />
+
 - **Name:** Nikita Lebedev
 - **Live in:** Russia, Astrakhan
 - **Studying:** [Astrakhan State Polytechnic College](https://www.aspc-edu.ru/)
 - **Loves:** Anime, RPG-games
 - **Hobbys**: Web Development, Python Development, Graphic Design
-
-<img src="https://github.com/Nicanev/Nicanev/blob/main/img/Profile.png" align="right" width="300" />
 
 </div>
 
