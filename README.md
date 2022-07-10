@@ -1,6 +1,6 @@
 <div>
 
-![Header](https://github.com/Nicanev/Nicanev/blob/main/img/about-me.png)
+![Header](https://github.com/Nicanev/Nicanev/blob/main/img/about.png)
 
 <div>
 
