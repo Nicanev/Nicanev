@@ -4,7 +4,7 @@
 
 ## I'm a beginner web-developer
 
-<div>
+<div margin-bottom="100px">
 
 <img src="https://github.com/Nicanev/Nicanev/blob/main/img/Profile.png" align="right" width="300" />
 
