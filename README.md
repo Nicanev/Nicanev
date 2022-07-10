@@ -15,8 +15,9 @@
 - **Hobbys**: Web Development, Python Development, Graphic Design
 
 </div>
-
-<div style="margin-top: 50px;">
+<br>
+<br>
+<br>
 
 ## Languages and Tools
 
@@ -25,8 +26,6 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=JavaScript)
 ![Vue](https://img.shields.io/badge/-Vue.js-000000?style=for-the-badge&logo=Vue.js)
 ![SASS](https://img.shields.io/badge/-SASS-000000?style=for-the-badge&logo=SASS)
-
-</div>
 
 ## Follow Me
 
