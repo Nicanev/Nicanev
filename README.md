@@ -1,5 +1,5 @@
 <div>
-<img src="img/about-me" />
+<img src=".img/about-me" />
 
 ## I'm a beginner web-developer
 
