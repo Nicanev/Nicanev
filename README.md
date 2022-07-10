@@ -1,4 +1,4 @@
-Header
+![Header](https://github.com/Nicanev/Nicanev/blob/main/assets/Logo.png)
 
 About me
 
