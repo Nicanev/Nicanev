@@ -41,6 +41,7 @@ for all sorts of social things
 
 ## Stats
 
-[![Nicanev's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nicanev&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Nicanev&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true" alt="Nicanev's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicanev&layout=compact&theme=github_dark&hide_border=true" /></a> |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 </div>
