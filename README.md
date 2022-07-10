@@ -22,7 +22,7 @@
 
 for all sorts of social things
 
-![Discord](https://img.shields.io/badge/CyberSnake%20-%231DA1F2.svg?&style=for-the-badge&logo=Discord&logoColor=white)
-![Telegram](https://img.shields.io/badge/LegendaryDarkLord%20-%2CA5E0.svg?&style=for-the-badge&logo=Telegram&logoColor=white)
+![Discord](https://img.shields.io/badge/CyberSnake%20-%237289DA.svg?&style=for-the-badge&logo=Discord&logoColor=white)
+![Telegram](https://img.shields.io/badge/LegendaryDarkLord%20-%231DA1F2.svg?&style=for-the-badge&logo=Telegram&logoColor=white)
 
 </div>
