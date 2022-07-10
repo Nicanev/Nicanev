@@ -4,11 +4,17 @@
 
 ## I'm a beginner web-developer
 
+<div>
+
 - **Name:** Nikita Lebedev
 - **Live in:** Russia, Astrakhan
 - **Studying:** [Astrakhan State Polytechnic College](https://www.aspc-edu.ru/)
 - **Loves:** Anime, RPG-games
 - **Hobbys**: Web Development, Python Development, Graphic Design
+
+</div>
+
+<img src=".img/Profile.png" align="right" />
 
 ## Languages and Tools
 
