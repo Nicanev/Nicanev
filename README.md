@@ -7,7 +7,9 @@
 ## I'm a beginner web-developer
 
 <br/>
-<img src="https://github.com/Nicanev/Nicanev/blob/main/img/Profile-new.png" align="right" width="300" height="280" />
+<br/>
+<br/>
+<img src="https://github.com/Nicanev/Nicanev/blob/main/img/Profile-new.png" align="right" width="300" height="300" />
 <br/>
 <br/>
 
@@ -19,7 +21,6 @@
 - **Understand**: English, Russian
 
 </div>
-<br/>
 <br/>
 <br/>
 <br/>
