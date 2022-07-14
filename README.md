@@ -1,6 +1,6 @@
 <div>
 
-![Header](https://github.com/Nicanev/Nicanev/blob/main/img/about.png)
+<img src="https://github.com/Nicanev/Nicanev/blob/main/img/about.png" width="100%"/>
 
 <div>
 
