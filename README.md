@@ -1,6 +1,6 @@
 <div>
 
-<img src="https://github.com/Nicanev/Nicanev/blob/main/img/about.png" width="100%"/>
+
 
 <div>
 
