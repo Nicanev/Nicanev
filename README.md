@@ -14,7 +14,7 @@
 - **Studying:** [Astrakhan State Polytechnic College](https://www.aspc-edu.ru/)
 - **Loves:** Anime, RPG-games
 - **Hobbys**: Web Development, Python Development, Graphic Design
-- **Understand**: English, Russian
+- **Linux**: Arch Linux + Hyprland
 
 </div>
 <br/>
