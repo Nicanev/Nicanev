@@ -31,13 +31,6 @@
 ![Vue](https://img.shields.io/badge/-Vue.js-000000?style=for-the-badge&logo=Vue.js)
 ![SASS](https://img.shields.io/badge/-SASS-000000?style=for-the-badge&logo=SASS)
 
-## Follow Me
-
-for all sorts of social things
-
-[![Discord](https://img.shields.io/badge/CyberSnake%20-%237289DA.svg?&style=for-the-badge&logo=Discord&logoColor=white)](https://discordapp.com/users/349545094422069258/)
-[![Telegram](https://img.shields.io/badge/LegendaryDarkLord%20-%234DA2F8.svg?&style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/LegendaryDarkLord)
-
 ## Stats
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Nicanev&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true" alt="Nicanev's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicanev&layout=compact&theme=github_dark&hide_border=true" /></a> |
